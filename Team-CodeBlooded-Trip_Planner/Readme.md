@@ -40,4 +40,4 @@ recommendations based on direct travel routes.
 
 
 ## [Demonstration Video Link](https://drive.google.com/file/d/1ZO4kxKqQDYuauODMspoGble2CVp9fEjv/view?usp=sharing)
-https://drive.google.com/file/d/1ZO4kxKqQDYuauODMspoGble2CVp9fEjv/view?usp=sharing
+
