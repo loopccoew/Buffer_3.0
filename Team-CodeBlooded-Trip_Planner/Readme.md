@@ -37,3 +37,6 @@ recommendations based on direct travel routes.
 #### Attributes : city_idx ,Connected_Locations, conn_idx , dist This table contains connections between two cities with their name and index
 ### Location
 #### Attributes: city_idx , city_name, state This table contains city index, name and state
+
+
+## Video Link[https://drive.google.com/file/d/1ZO4kxKqQDYuauODMspoGble2CVp9fEjv/view?usp=sharing]
