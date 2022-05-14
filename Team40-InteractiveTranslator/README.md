@@ -1,4 +1,4 @@
-**INTERACTIVE TRANSLATOR** 🌎: 
+<u>**INTERACTIVE TRANSLATOR** 🌎:</u> 
 
 The Interactive Translator is a group project made for Buffer 3.0, a DSA project competition arranged by club Loop of MKSSS’s Cummins College of Engineering, Pune.
 
