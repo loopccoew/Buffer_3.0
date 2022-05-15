@@ -5,11 +5,8 @@ TEAM NEOPHYTES
 4. Aditi Ranade
 5. Annada Dash
 
-
 NAME OF THE PROJECT---BOOKWORM SHACK
 
-
-
-project video with explanation-
+LINK OF PROJECT VIDEO WITH EXPLANATION -
  https://drive.google.com/drive/folders/1HqZQlCzLAPSn-UgmzBgmA6YaFmT-aCMi
 
