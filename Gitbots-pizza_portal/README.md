@@ -55,4 +55,4 @@ It also avoids the need of pizzeria owners to manually note down the order and m
 
 
 drive link:
-"https://drive.google.com/file/d/1Cn3W2eMzMnKJ-f7UtBl2M4A-gAoctqmg/view?usp=sharing"
+https://drive.google.com/file/d/1Cn3W2eMzMnKJ-f7UtBl2M4A-gAoctqmg/view?usp=sharing
