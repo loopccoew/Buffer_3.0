@@ -90,7 +90,7 @@ def first_input():
         df3=pd.DataFrame([[Cname,Cmail,Cnum,None,None,None,None,None]])  #creating dataframe df3 
         df1=pd.concat([df1,df3],ignore_index=True)         #concatinating dataframe df1 and df3.
 
-#SONIA------------------------------------------------------------------
+
         
         def med():
             global csvdf
@@ -152,7 +152,7 @@ def first_input():
         global csvdf
         csvdf.to_csv("C:\Sonia\Cummins Assignments\loop.csv",index=False)
                         
-#NANDINI-------------------------------------------------------------------
+
         print("-"*85)#printing of E-BILL.
         print("\t\t\t E-BILL GENERATED \t\t\t")
         print("-"*85)
