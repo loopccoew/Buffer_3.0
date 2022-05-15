@@ -8,3 +8,5 @@ For 'Stack Visualization' the options are push and pop.
 For 'Queue Visualization' the options are Enqueue, Display and Dequeue.
 For 'LinkedList Visualization' the primary options are Create, Insert, Delete.Inside the Insert operation the sub operations are insert at start, at end and insert in between.
 The application is asking for feedback at last.
+
+Pitch Video Link: https://drive.google.com/file/d/1GdCSfyqJetg4jdGpIvXKyywCxIutOpot/view?usp=sharing
