@@ -21,7 +21,7 @@ In this project we have demonstrated map navigation system using data structures
 Video Link : https://drive.google.com/drive/folders/1YYvX9b1k4XAKKO7XMc0F4R9wZOR_Wrpg?usp=sharing
 
 
-Team Members:
-1.Nidhi Malpani
-2.Gaurika Gupta
-3.Aarya Khodke
+#### Team Members:
+<br>1.Nidhi Malpani
+<br>2.Gaurika Gupta
+<br>3.Aarya Khodke
