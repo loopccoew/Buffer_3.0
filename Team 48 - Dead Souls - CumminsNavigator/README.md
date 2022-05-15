@@ -29,6 +29,7 @@ It’s difficult to find classrooms and labs when you first enter our campus as 
 * Download the code as a zip file, extract the files, and you will be able to open it in your android studio software. 
 * You can see the working of our app on an emulator.
 * Do not set the phone on dark mode.
+* You can also install our app by downloading the CumminsNavigator.apk file.
 
 
 
