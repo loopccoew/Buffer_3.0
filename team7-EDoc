@@ -60,8 +60,8 @@ int main()
             }
             break;
         case 2:
-            printf("to delete the last entry enter 1;"); // 012345
-            scanf("%d", &del_user);                      // eg3 but cuz  array start form 0 its index wlll be 2
+            printf("to delete the last entry enter 1;"); 
+            scanf("%d", &del_user);                      
             del_comp = del_user - 1;
 
             for (int i = del_comp; i < n; i++)
@@ -85,11 +85,6 @@ int main()
                 printf("date :%s\n", first[i].date);
             }
             break;
-            // 4 array for each datatype in the struct
-            // 4 for loop for traversing int the arraty an deleting the arr[position] wala element
-            // variable defionr karna padega for takin amt ka input and accus index ko traverse karke amt wale me se
-            // nikalenge n us index ko use karke baaki teeno arraysw me se us position ka element delete karenge
-
         default:
             printf("Wrong input choice");
         }
