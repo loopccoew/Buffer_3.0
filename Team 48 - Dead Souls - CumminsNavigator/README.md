@@ -35,10 +35,10 @@ It’s difficult to find classrooms and labs when you first enter our campus as 
 * You can also install our app by downloading the CumminsNavigator.apk file.
 
 **Collaborators: -**  
-Shreyal Geddam
-Aarushi Chopkar
-Silvi Parlani
-Arya Darvekar
-Alefiya Dawasaz
+Shreyal Geddam  
+Aarushi Chopkar  
+Silvi Parlani  
+Arya Darvekar  
+Alefiya Dawasaz  
 
 
