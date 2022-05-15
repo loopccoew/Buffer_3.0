@@ -1,0 +1,145 @@
+<resources>
+    <string name="app_name">Cummins Navigator</string>
+
+    <string-array name="BuildingList">
+        <item>Main-Building</item>
+        <item>IT-Building</item>gr
+        <item>Mechanical-Building</item>
+        <item>MBA-Building</item>
+        <item>Canteen</item>
+        <item>Instrumentation-Building</item>
+        <item>Instrumentation-Building(Back-Gate)</item>
+        <item>Main-Gate</item>
+        <item>Lane1-Gate</item>
+        <item>Lane2-Gate</item>
+
+    </string-array>
+
+    <string-array name="Roomlist">
+
+        <item>Accounts and Admin Section</item>
+        <item>Administration Personnel Section</item>
+        <item>Administration Student Section</item>
+        <item>Alumnae Association Office</item>
+        <item>Analog Electronics Lab</item>
+        <item>Automation and Control Lab</item>
+        <item>Automation Center</item>
+
+        <item>Basic Electronics Lab</item>
+        <item>Bhaskaracharya Lab or Bio Medical Instrumentation Lab</item>
+        <item>Career Guidance Cell</item>
+        <item>Center of Research and Intellectual Entrepreneurship</item>
+        <item>Chemistry Lab</item>
+        <item>Classroom 1</item>
+        <item>Classroom 2</item>
+        <item>Classroom 3</item>
+        <item>Classroom 4</item>
+        <item>Classroom 5</item>
+        <item>Classroom 6</item>
+        <item>Classroom 7</item>
+        <item>Classroom 8</item>
+        <item>Classroom 9</item>
+        <item>Classroom 10</item>
+        <item>Classroom 11</item>
+        <item>Classroom 12</item>
+        <item>Classroom 13</item>
+        <item>Classroom 14</item>
+        <item>Computer Center</item>
+        <item>Computer lab 1</item>
+        <item>Computer lab 2</item>
+        <item>Computer lab 3</item>
+        <item>Computer lab 4</item>
+        <item>Communication Lab</item>
+        <item>Computer Networks Laboratory</item>
+        <item>Conference Hall</item>
+        <item>CT Lab</item>
+        <item>CV Raman Lab</item>
+        <item>Dark Room</item>
+        <item>Data Structures Lab</item>
+        <item>Dean academics</item>
+        <item>Department Library IT</item>
+        <item>Department of Mechanical Engineering and office and library</item>
+        <item>Department Library Instru</item>
+        <item>Discussion Zone</item>
+        <item>DSP Lab</item>
+        <item>Embedded Systems Lab</item>
+        <item>Engineering Graphics Lab</item>
+        <item>Examination Department</item>
+        <item>Fibre Optic Communication Lab</item>
+        <item>Fluid Mechanics Lab</item>
+        <item>Geoinformatics Lab</item>
+        <item>Hardware Laboratory 1</item>
+        <item>Hardware Lab 2</item>
+        <item>Heat Transfer and Thermodynamics Lab</item>
+        <item>Heinrich Hertz Lab</item>
+        <item>Instru Auditorium</item>
+        <item>Instrumentation Projects Lab</item>
+        <item>KB Joshi Auditorium</item>
+        <item>Lab 1</item>
+        <item>Lab 2</item>
+        <item>Lab 3</item>
+        <item>Lab 4</item>
+        <item>Lab 5</item>
+        <item>Lab 6</item>
+        <item>Lab 7</item>
+        <item>Lab 8</item>
+        <item>Lab IX-FPL Lab</item>
+        <item>Language Lab</item>
+        <item>Library</item>
+        <item>LME-13 Project Centre</item>
+        <item>M1</item>
+        <item>M2</item>
+        <item>M3</item>
+        <item>M4</item>
+        <item>M5</item>
+        <item>M6</item>
+        <item>M7</item>
+        <item>M8</item>
+        <item>Mechanical Vibrations Lab</item>
+        <item>Mech Auditorium</item>
+        <item>Mechatronics Garage</item>
+        <item>Metrology and Quality Control Lab</item>
+        <item>Multimedia Lab</item>
+        <item>NSS Program Office</item>
+        <item>OOP Lab</item>
+        <item>PG Lab 1</item>
+        <item>Physics Lab</item>
+        <item>Power Electronics Lab</item>
+        <item>Principals Cabin</item>
+        <item>Process Instrumentation Labs</item>
+        <item>Project Lab</item>
+        <item>Project Engineering and Management Lab</item>
+
+
+        <item>Reception</item>
+        <item>Reading Hall</item>
+        <item>Refrigeration and AC Lab</item>
+        <item>Rigid Body Dynamics or Analysis and Synthesis of Mechanisms Lab</item>
+        <item>Robocon Room</item>
+        <item>Room 19</item>
+        <item>Room 20</item>
+        <item>Room 21</item>
+        <item>Room 23</item>
+        <item>Room 24</item>
+        <item>Room 25</item>
+        <item>Seminar Hall</item>
+        <item>Stationary</item>
+        <item>Student Common Room</item>
+        <item>Software Lab 1</item>
+        <item>Software Lab 2</item>
+        <item>Software Lab 3</item>
+        <item>Software Lab 4</item>
+        <item>Software Lab 5</item>
+        <item>Sports Office</item>
+        <item>Training and Placement Cell</item>
+        <item>Tut Room 7</item>
+        <item>Tut Room 9</item>
+        <item>Tut Room 10</item>
+        <item>Turbomachines Lab</item>
+
+
+        <item>Workshop</item>
+
+    </string-array>
+
+</resources>
