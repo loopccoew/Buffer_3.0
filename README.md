@@ -1,2 +1,3 @@
 # Buffer_3.0
 Buffer 3.0 Repository to submit your projects
+ Our project is 'Quize Application' for kids.Here we are using doubly linked list to represent our quize.Each node of our list consist of data of type Quetion.Each quetion consist of quetion statement,an array used in quetion, answer of  quetion in form of array and the answer given by user. We are traversing the list using previous and next option as all quetions are connected through linked list.  Ater ending test score is calculated by cross checking each elemnt of array of user-answer is equal to respective right answer return by the methods calculation it.And after exiting if retest then fresh test opens.
