@@ -1,3 +1,5 @@
+BUFFER 3.0
+
 Hey!!
 We are team7-The Harpies:
 Our project is based upon the idea of keeping tally of your expenditures.
