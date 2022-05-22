@@ -1,0 +1,174 @@
+Enter password: *******
+Welcome to the MySQL monitor.  Commands end with ; or \g.
+Your MySQL connection id is 142
+Server version: 8.0.28 MySQL Community Server - GPL
+
+Copyright (c) 2000, 2022, Oracle and/or its affiliates.
+
+Oracle is a registered trademark of Oracle Corporation and/or its
+affiliates. Other names may be trademarks of their respective
+owners.
+
+Type 'help;' or '\h' for help. Type '\c' to clear the current input statement.
+
+mysql> use trip_planner;
+Database changed
+mysql> show tables;
++------------------------+
+| Tables_in_trip_planner |
++------------------------+
+| connloc                |
+| location               |
+| user                   |
++------------------------+
+3 rows in set (0.12 sec)
+
+mysql> select * from connloc;
++----------+---------------------+----------+------+
+| city_idx | Connected_Locations | conn_idx | dist |
++----------+---------------------+----------+------+
+|        1 | Pondicherry         |       19 |  368 |
+|        1 | Hyderabad           |       20 |  991 |
+|        1 | Kanniyakumari       |       24 |  259 |
+|        1 | Banglore            |       25 |  446 |
+|        2 | Delhi               |        3 |  285 |
+|        2 | Amritsar            |        9 |  645 |
+|        2 | Pune                |       13 | 1156 |
+|        2 | Kutch               |       14 |  854 |
+|        3 | Jaipur              |        2 |  285 |
+|        3 | Varanasi            |        4 |  809 |
+|        3 | Darjeeling          |        5 | 1425 |
+|        3 | Manali              |        7 |  596 |
+|        3 | Amritsar            |        9 |  447 |
+|        3 | Khajuraho           |       10 |  630 |
+|        3 | Pune                |       13 | 1426 |
+|        3 | Hampi               |       23 | 1872 |
+|        3 | Bangalore           |       25 | 2190 |
+|        4 | Kaziranga NP        |       12 | 1300 |
+|        4 | Khajuraho           |       10 |  400 |
+|        5 | Delhi               |        3 | 1425 |
+|        4 | Delhi               |        3 |  809 |
+|        5 | Kaziranga NP        |       12 |  635 |
+|        6 | Amritsar            |        9 |  853 |
+|        6 | Manali              |        7 |  433 |
+|        7 | Ladakh              |        6 |  433 |
+|        7 | Amritsar            |        9 |  395 |
+|        7 | Delhi               |        3 |  596 |
+|        8 | Khajuraho           |       10 |  391 |
+|        8 | Hampi               |       23 | 1122 |
+|        9 | Ladakh              |        6 |  853 |
+|        9 | Manali              |        7 |  395 |
+|        9 | Delhi               |        3 |  447 |
+|        9 | Jaipur              |        2 |  645 |
+|       10 | Delhi               |        3 |  630 |
+|       10 | Varanasi            |        4 |  400 |
+|       10 | Kanha NP            |        8 |  391 |
+|       10 | Ajanta              |       15 |  814 |
+|       10 | Hampi               |       23 | 1405 |
+|       11 | Pune                |       13 |  120 |
+|       11 | Kutch               |       14 | 1098 |
+|       11 | Goa                 |       16 |  411 |
+|       12 | Varanasi            |        4 | 1300 |
+|       12 | Darjeeling          |        5 |  635 |
+|       13 | Jaipur              |        2 | 1156 |
+|       13 | Delhi               |        3 | 1426 |
+|       13 | Mahabaleshwar       |       11 |  120 |
+|       13 | Ajanta              |       15 |  334 |
+|       13 | Goa                 |       16 |  463 |
+|       13 | Hyderabad           |       20 |  552 |
+|       13 | Hampi               |       23 |  538 |
+|       14 | Jaipur              |        2 |  854 |
+|       14 | Mahabaleshwar       |       11 | 1098 |
+|       15 | Pune                |       13 |  334 |
+|       15 | Khajuraho           |       10 |  814 |
+|       16 | Mahabaleshwar       |       11 |  411 |
+|       16 | Pune                |       13 |  463 |
+|       16 | Hampi               |       23 |  320 |
+|       17 | Coorg               |       18 |  438 |
+|       17 | Ooty                |       21 |  237 |
+|       17 | Bangalore           |       25 |  441 |
+|       17 | Kanniyakumari       |       24 |  364 |
+|       18 | Ooty                |       21 |  246 |
+|       18 | Munnar              |       17 |  438 |
+|       18 | Mysore              |       22 |  118 |
+|       19 | Madurai             |        1 |  368 |
+|       19 | Bangalore           |       25 |  446 |
+|       20 | Madurai             |        1 |  991 |
+|       20 | Pune                |       13 |  552 |
+|       20 | Ooty                |       21 |  820 |
+|       20 | Bangalore           |       25 |  621 |
+|       21 | Munnar              |       17 |  237 |
+|       21 | Coorg               |       18 |  438 |
+|       21 | Hyderabad           |       20 |  820 |
+|       21 | Mysore              |       22 |  125 |
+|       21 | Bangalore           |       25 |  358 |
+|       22 | Ooty                |       21 |  125 |
+|       22 | Coorg               |       18 |  118 |
+|       22 | Hampi               |       23 |  394 |
+|       22 | Bangalore           |       25 |  158 |
+|       23 | Delhi               |        3 | 1872 |
+|       23 | Kanha NP            |        8 | 1122 |
+|       23 | Kajhuraho           |       10 | 1405 |
+|       23 | Pune                |       13 |  538 |
+|       23 | Goa                 |       16 |  320 |
+|       23 | Mysore              |       22 |  394 |
+|       23 | Bangalore           |       25 |  341 |
+|       24 | Madurai             |        1 |  259 |
+|       24 | Munnar              |       17 |  364 |
+|       25 | Madurai             |        1 |  446 |
+|       25 | Delhi               |        3 | 2190 |
+|       25 | Munnar              |       17 |  441 |
+|       25 | Pondicherry         |       19 |  359 |
+|       25 | Hyderabad           |       20 |  621 |
+|       25 | Ooty                |       21 |  358 |
+|       25 | Mysore              |       22 |  158 |
+|       25 | Hampi               |       23 |  341 |
++----------+---------------------+----------+------+
+96 rows in set (0.01 sec)
+
+mysql> select * from user;
++-----------+-------------------+----------+
+| user_name | mail_id           | password |
++-----------+-------------------+----------+
+| Disha     | disha78@mail.com  | dis@123  |
+| Mrunal    | mrunal05@mail.com | mru@123  |
+| Mukta     | mukta25@mail.com  | muk@123  |
+| Riya      | riya45@mail.com   | riy@123  |
+| Sakshi    | sakshi96@mail.com | sak@123  |
+| Tanaya    | tanaya12@mail.com | tan@123  |
++-----------+-------------------+----------+
+6 rows in set (0.00 sec)
+
+mysql> select * from location;
++----------+---------------+-------+
+| city_idx | city_name     | state |
++----------+---------------+-------+
+|        1 | Madurai       | TN    |
+|        2 | Jaipur        | RJ    |
+|        3 | Delhi         | ND    |
+|        4 | Varanasi      | UP    |
+|        5 | Darjeeling    | WB    |
+|        6 | Ladakh        | LL    |
+|        7 | Manali        | HP    |
+|        8 | Kanha NP      | MP    |
+|        9 | Amritsar      | PB    |
+|       10 | Khajuraho     | MP    |
+|       11 | Mahabaleshwar | MH    |
+|       12 | Kaziranga NP  | AS    |
+|       13 | Pune          | MH    |
+|       14 | Kutch         | GJ    |
+|       15 | Ajanta        | MH    |
+|       16 | Goa           | GA    |
+|       17 | Munnar        | KL    |
+|       18 | Coorg         | KT    |
+|       19 | Pondicherry   | PD    |
+|       20 | Hyderabad     | TL    |
+|       21 | Ooty          | TN    |
+|       22 | Mysore        | KT    |
+|       23 | Hampi         | KT    |
+|       24 | Kanniyakumari | TL    |
+|       25 | Banglore      | KT    |
++----------+---------------+-------+
+25 rows in set (0.01 sec)
+
+mysql>
