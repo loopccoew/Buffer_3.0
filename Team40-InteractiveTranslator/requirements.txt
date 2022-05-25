@@ -1,0 +1,24 @@
+1)Install from website for appropriate version
+  python==3.7.9
+2)PyQt5 GUI:
+  pip install pyqt5==5.15.6
+  pip install pyqt5-tools
+3)Text to speech:
+  pip install pypiwin32
+  pip install pyttsx3
+4)Google Translate
+  pip3 install googletrans==3.1.0a0
+5)Add languages on PC languages:
+  step 1: Settings>Time & Language>Language>Preferred Languages>
+  Add Language>(add individually)
+  -German(Germany)
+  -Spanish(Mexico)
+  -Portuguese(Brazil)
+  -French(France)
+  -Italian(Italy)
+  
+  step 2: Settings>Time & Language>Speech>Voices>Microsoft Elsa
+  step 3: Settings>Time & Language>Speech>Installed voice packages
+  ensure all above speech packages are installed, if not click on "Add voices"
+6)Download folder of images provided and place in the same filepath as .py file
+
